@@ -1,0 +1,193 @@
+Seleccion,Posicion,Edad_Promedio
+Algeria,Defensa,27.32
+Algeria,Delantero,26.43
+Algeria,Mediocampista,25.84
+Algeria,Portero,28.7
+Argentina,Defensa,30.46
+Argentina,Delantero,27.16
+Argentina,Mediocampista,28.11
+Argentina,Portero,33.33
+Australia,Defensa,27.4
+Australia,Delantero,26.45
+Australia,Mediocampista,27.44
+Australia,Portero,29.47
+Austria,Defensa,29.28
+Austria,Delantero,30.78
+Austria,Mediocampista,27.26
+Austria,Portero,28.33
+Belgium,Defensa,26.77
+Belgium,Delantero,27.32
+Belgium,Mediocampista,29.28
+Belgium,Portero,26.3
+Bosnia and Herzegovina,Defensa,26.82
+Bosnia and Herzegovina,Delantero,27.19
+Bosnia and Herzegovina,Mediocampista,25.66
+Bosnia and Herzegovina,Portero,25.67
+Brazil,Defensa,31.28
+Brazil,Delantero,25.77
+Brazil,Mediocampista,29.38
+Brazil,Portero,35.0
+Canada,Defensa,26.89
+Canada,Delantero,26.93
+Canada,Mediocampista,27.19
+Canada,Portero,27.9
+Cape Verde,Defensa,29.22
+Cape Verde,Delantero,28.63
+Cape Verde,Mediocampista,29.72
+Cape Verde,Portero,31.7
+Colombia,Defensa,30.22
+Colombia,Delantero,27.97
+Colombia,Mediocampista,29.5
+Colombia,Portero,35.43
+Croatia,Defensa,26.51
+Croatia,Delantero,30.75
+Croatia,Mediocampista,28.46
+Croatia,Portero,27.97
+Curaçao,Defensa,28.18
+Curaçao,Delantero,28.28
+Curaçao,Mediocampista,26.96
+Curaçao,Portero,29.43
+Czech Republic,Defensa,28.56
+Czech Republic,Delantero,27.26
+Czech Republic,Mediocampista,27.16
+Czech Republic,Portero,26.7
+DR Congo,Defensa,30.06
+DR Congo,Delantero,31.27
+DR Congo,Mediocampista,27.02
+DR Congo,Portero,26.73
+Ecuador,Defensa,25.6
+Ecuador,Delantero,26.76
+Ecuador,Mediocampista,23.86
+Ecuador,Portero,31.77
+Egypt,Defensa,29.01
+Egypt,Delantero,27.31
+Egypt,Mediocampista,28.87
+Egypt,Portero,32.5
+England,Defensa,26.79
+England,Delantero,28.07
+England,Mediocampista,26.14
+England,Portero,28.4
+France,Defensa,27.62
+France,Delantero,26.24
+France,Mediocampista,26.47
+France,Portero,28.17
+Germany,Defensa,28.4
+Germany,Delantero,26.2
+Germany,Mediocampista,26.46
+Germany,Portero,35.3
+Ghana,Defensa,26.92
+Ghana,Delantero,25.94
+Ghana,Mediocampista,27.0
+Ghana,Portero,29.8
+Haiti,Defensa,28.41
+Haiti,Delantero,27.41
+Haiti,Mediocampista,25.58
+Haiti,Portero,29.93
+Iran,Defensa,31.0
+Iran,Delantero,29.75
+Iran,Mediocampista,29.05
+Iran,Portero,32.93
+Iraq,Defensa,27.82
+Iraq,Delantero,25.49
+Iraq,Mediocampista,24.93
+Iraq,Portero,32.17
+Ivory Coast,Defensa,26.55
+Ivory Coast,Delantero,23.62
+Ivory Coast,Mediocampista,28.25
+Ivory Coast,Portero,25.83
+Japan,Defensa,29.21
+Japan,Delantero,24.7
+Japan,Mediocampista,28.17
+Japan,Portero,26.0
+Jordan,Defensa,30.0
+Jordan,Delantero,26.52
+Jordan,Mediocampista,28.14
+Jordan,Portero,31.07
+Mexico,Defensa,27.71
+Mexico,Delantero,28.19
+Mexico,Mediocampista,26.05
+Mexico,Portero,32.43
+Morocco,Defensa,26.51
+Morocco,Delantero,27.18
+Morocco,Mediocampista,23.27
+Morocco,Portero,34.17
+Netherlands,Defensa,27.52
+Netherlands,Delantero,28.09
+Netherlands,Mediocampista,28.15
+Netherlands,Portero,26.73
+New Zealand,Defensa,29.1
+New Zealand,Delantero,29.9
+New Zealand,Mediocampista,26.53
+New Zealand,Portero,28.03
+Norway,Defensa,26.05
+Norway,Delantero,26.48
+Norway,Mediocampista,26.78
+Norway,Portero,29.4
+Panama,Defensa,29.11
+Panama,Delantero,30.08
+Panama,Mediocampista,31.46
+Panama,Portero,33.0
+Paraguay,Defensa,30.34
+Paraguay,Delantero,29.6
+Paraguay,Mediocampista,26.37
+Paraguay,Portero,32.43
+Portugal,Defensa,26.91
+Portugal,Delantero,28.21
+Portugal,Mediocampista,28.1
+Portugal,Portero,30.8
+Qatar,Defensa,29.06
+Qatar,Delantero,29.22
+Qatar,Mediocampista,32.16
+Qatar,Portero,27.23
+Saudi Arabia,Defensa,27.58
+Saudi Arabia,Delantero,28.93
+Saudi Arabia,Mediocampista,27.85
+Saudi Arabia,Portero,31.97
+Scotland,Defensa,29.31
+Scotland,Delantero,27.03
+Scotland,Mediocampista,28.8
+Scotland,Portero,34.73
+Senegal,Defensa,27.2
+Senegal,Delantero,26.2
+Senegal,Mediocampista,26.17
+Senegal,Portero,31.3
+South Africa,Defensa,25.51
+South Africa,Delantero,25.11
+South Africa,Mediocampista,29.0
+South Africa,Portero,32.03
+South Korea,Defensa,26.66
+South Korea,Delantero,29.17
+South Korea,Mediocampista,27.56
+South Korea,Portero,33.03
+Spain,Defensa,27.06
+Spain,Delantero,25.78
+Spain,Mediocampista,26.83
+Spain,Portero,28.27
+Sweden,Defensa,27.76
+Sweden,Delantero,27.16
+Sweden,Mediocampista,26.1
+Sweden,Portero,30.87
+Switzerland,Defensa,28.76
+Switzerland,Delantero,28.04
+Switzerland,Mediocampista,28.14
+Switzerland,Portero,28.13
+Tunisia,Defensa,27.14
+Tunisia,Delantero,26.32
+Tunisia,Mediocampista,25.71
+Tunisia,Portero,28.07
+Turkey,Defensa,28.63
+Turkey,Delantero,24.56
+Turkey,Mediocampista,29.02
+Turkey,Portero,31.9
+United States,Defensa,27.39
+United States,Delantero,26.34
+United States,Mediocampista,26.47
+United States,Portero,27.37
+Uruguay,Defensa,29.07
+Uruguay,Delantero,27.44
+Uruguay,Mediocampista,27.7
+Uruguay,Portero,34.0
+Uzbekistan,Defensa,27.43
+Uzbekistan,Delantero,30.9
+Uzbekistan,Mediocampista,28.28
+Uzbekistan,Portero,30.53
